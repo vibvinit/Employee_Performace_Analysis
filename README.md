@@ -1,4 +1,4 @@
-# ScienceQtech-Employee-Performace
+# Employee_Performace_Analysis
 
 ### Objective: 
 The main objective of the "ScienceQtech Employee Performance Mapping" project is to analyse comprehensive employee data to understand performance drivers and enhance workforce efficiency through SQL queries
